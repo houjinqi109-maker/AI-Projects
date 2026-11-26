@@ -1,0 +1,4 @@
+# Optional: only needed to build a Windows executable.
+# Match the PyInstaller version found in the existing local packaging environment.
+-r requirements.txt
+PyInstaller==6.22.3

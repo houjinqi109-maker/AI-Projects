@@ -1,0 +1,4 @@
+# Runtime: Python >= 3.10 with Tcl/Tk (tkinter).
+# The application and unittest suite use only the Python standard library.
+# No third-party pip packages are required, including for Excel export.
+# Install Tcl/Tk through your Python installer or operating system, not pip.
